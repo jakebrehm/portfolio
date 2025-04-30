@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-02-25T23:00:13.834127+00:00",
+    "last_updated": "2025-04-30T22:36:10.687230+00:00",
     "projects": [
         {
             "name": "Snake AI",
@@ -150,6 +150,19 @@
             "tags": [
                 "Featured",
                 "Library"
+            ]
+        },
+        {
+            "name": "OSRS Economy",
+            "description": "\ud83e\ude99 An ELT pipeline to monitor the economy of Old School RuneScape.",
+            "image": null,
+            "links": {
+                "github": "osrs-economy",
+                "preview": "https://tinyurl.com/osrs-economy"
+            },
+            "tags": [
+                "Featured",
+                "Data Engineering"
             ]
         }
     ]
